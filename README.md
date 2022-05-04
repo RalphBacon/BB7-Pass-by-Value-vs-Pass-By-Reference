@@ -2,7 +2,7 @@
 So what really happens when we pass a parameter to a function? Why is there more than one way?
 
 ![PassByReference-Snapshot (Phone)](https://user-images.githubusercontent.com/20911308/166670098-20e22e60-c629-462c-9f6a-b16ee4d9a08d.jpg)  
-Video #BB7 link:  
+Video #BB7 link: https://youtu.be/nVIT3972mIc  
 
 [![JLCPCB-Purple](https://user-images.githubusercontent.com/20911308/159024530-3e083ca1-fea4-4ba9-97d3-a3af3fb979d2.png)](https://www.jlcpcb.com/cem)  
 
